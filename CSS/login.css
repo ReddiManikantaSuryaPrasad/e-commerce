@@ -1,0 +1,35 @@
+.home-title{
+    font-size: 3.5rem;
+    margin-top: 3rem;
+    letter-spacing: 1rem;
+}
+
+.login-wrapper{
+    width: 600px;
+    max-width: 50px auto;
+}
+
+.login-wrapper .signup-btn{
+    cursor: pointer;
+    color: black;
+    padding: 1rem;
+}
+
+.login-wrapper .signup-btn:hover{
+    text-decoration: underline;
+}
+
+.input-group{
+    margin: 1.5rem auto;
+} 
+.login-wrapper h4{
+    font-size: 2rem;
+    letter-spacing: 4px;
+}
+
+.container2 { /* Target the container of your login form */
+    display: flex;         
+    flex-direction: column; /* Arrange elements in a column */
+    align-items: center;   /* Center horizontally  */
+    justify-content: center; /* Center vertically */
+}

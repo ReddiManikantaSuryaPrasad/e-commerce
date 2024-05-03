@@ -21,9 +21,13 @@ html{
 #header .header-wrapper .logo{
     font-size: 1.35rem;
     line-height: 1.5;
+    font-weight: 620;
+    
 }
 
+
 #header .header-wrapper .logo a{
+    /* color: black; */
     color: black;
     letter-spacing: 5px;
 }
